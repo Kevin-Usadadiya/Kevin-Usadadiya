@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kevin-Usadadiya
-- 👀 I’m interested in building Great Stuff's.
-- 🌱 I’m currently learning C, Java.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can Reach me on Twitter @Kevin_Usadadiya
 
