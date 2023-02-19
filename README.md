@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kevin-Usadadiya
-- 🌱 I’m currently learning Java,Node Js, Bootstrap.
+- 🌱 I’m currently learning Python, Java, Node Js, Bootstrap.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can Reach me on Twitter @Kevin_Usadadiya
 
